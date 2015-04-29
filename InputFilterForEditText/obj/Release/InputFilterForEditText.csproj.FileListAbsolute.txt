@@ -1,0 +1,13 @@
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\bin\Release\InputFilterForEditText.dll
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\bin\Release\InputFilterForEditText.pdb
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\bin\Release\InputFilterForEditText.InputFilterForEditText.apk
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\bin\Release\InputFilterForEditText.InputFilterForEditText-Signed.apk
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\obj\Release\InputFilterForEditText.dll
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\obj\Release\InputFilterForEditText.pdb
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\obj\Release\android\bin\InputFilterForEditText.InputFilterForEditText.apk
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\obj\Release\res\layout\main.xml
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\obj\Release\res\values\strings.xml
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\obj\Release\res\drawable\icon.png
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\obj\Release\R.cs.flag
+c:\users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\obj\Release\uploadflags.txt
+C:\Users\vivek.samele\documents\visual studio 2012\Projects\InputFilterForEditText\InputFilterForEditText\obj\Release\InputFilterForEditText.csprojResolveAssemblyReference.cache

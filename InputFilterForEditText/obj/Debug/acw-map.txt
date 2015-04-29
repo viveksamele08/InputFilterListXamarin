@@ -1,0 +1,2 @@
+InputFilterForEditText.DecimalPlaceFilter;inputfilterforedittext.DecimalPlaceFilter
+InputFilterForEditText.MainActivity;inputfilterforedittext.MainActivity
